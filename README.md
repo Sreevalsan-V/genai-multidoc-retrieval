@@ -61,4 +61,4 @@ print(response)
 
 
 ### RESULT:
-The program successfully implements a multidocument retrieval agent. It loads multiple research articles, creates an index using LlamaIndex, and allows for querying. The system synthesizes information from multiple sources and provides relevant and
+The program successfully implements a multidocument retrieval agent. It loads multiple research articles, creates an index using LlamaIndex, and allows for querying. The system synthesizes information from multiple sources and provides relevant and precise responses.
